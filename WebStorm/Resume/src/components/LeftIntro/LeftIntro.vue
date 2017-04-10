@@ -124,6 +124,21 @@
         padding-left: 1rem;
         margin: 1rem auto;
     }
+    .skill-block progress{
+        width: 100%;
+    }
+    .skill-block section progress{
+        -webkit-appearance: none;
+    }
+    .skill-block section progress::-webkit-progress-bar{
+        height: 1rem;
+        border-radius: 1rem;
+        background-color: #cdcdcd;
+    }
+    .skill-block section progress::-webkit-progress-value{
+        border-radius: 1rem;
+        background-color: #2f6f9f;
+    }
 
     /*hobbyBlock*/
     .hobby-block h1{

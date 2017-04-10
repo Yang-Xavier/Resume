@@ -2,13 +2,13 @@
     <div id="rightPane" class="col-sm-9 col-xs-9 col-md-9 right-block">
         <header-name className="head-name-block info-block" />
         <education-block className=" info-block tittle-part"/>
+        <project-experience className=" info-block tittle-part"/>
+        <self-assessment className=" info-block tittle-part"/>
         <schoole-experience className=" info-block tittle-part"/>
         <out-experience className=" info-block tittle-part"/>
         <work-experience className="info-block tittle-part"/>
-        <project-experience className=" info-block tittle-part"/>
         <skill-certificate className=" info-block tittle-part"/>
         <price-block className=" info-block tittle-part"/>
-        <self-assessment className=" info-block tittle-part"/>
     </div>
 </template>
 
@@ -127,7 +127,7 @@
     }
     .tittle-part .intro-content-1 li section:nth-child(1) span{
         float: left;
-        width: 30%;
+        width: 40%;
         margin: 0 1%;
         font-size: 2rem;
     }

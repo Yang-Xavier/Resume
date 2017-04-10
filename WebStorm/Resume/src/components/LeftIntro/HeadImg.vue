@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import logo from '../../assets/images/ZQ.jpg'
+    import logo from '../../assets/images/YBX.JPG'
 
     export default {
 

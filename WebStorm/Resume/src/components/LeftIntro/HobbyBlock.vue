@@ -18,6 +18,10 @@
                 <section class="icon-headphones"></section>
                 <section>音乐</section>
             </li>
+            <li class="clear-fix">
+                <section class="fa fa-soccer-ball-o"></section>
+                <section>运动</section>
+            </li>
         </ul>
     </div>
 </template>

@@ -3,42 +3,56 @@
         <ul>
             <li>
                 <section>html、css</section>
-                <section class="progress">
-                    <div class="progress-bar " role="progressbar" aria-valuenow="100"
-                         aria-valuemin="0" aria-valuemax="100" style="width: 60%;"
-                    ></div>
+                <section >
+                    <progress value="70" max="100"/>
                 </section>
             </li>
             <li>
                 <section>javascript</section>
-                <section class="progress">
-                    <div class="progress-bar " role="progressbar" aria-valuenow="100"
-                         aria-valuemin="0" aria-valuemax="100" style="width: 70%;"
-                    ></div>
+                <section >
+                    <progress value="70" max="100"/>
+                </section>
+            </li>
+            <li>
+                <section>java</section>
+                <section >
+                    <progress value="50" max="100"/>
+
                 </section>
             </li>
             <li>
                 <section>nodeJS</section>
-                <section class="progress">
-                    <div class="progress-bar " role="progressbar" aria-valuenow="100"
-                         aria-valuemin="0" aria-valuemax="100" style="width: 40%;"
-                    ></div>
+                <section >
+                    <progress value="50" max="100"/>
+
                 </section>
             </li>
             <li>
                 <section>ReactJS</section>
-                <section class="progress">
-                    <div class="progress-bar " role="progressbar" aria-valuenow="100"
-                         aria-valuemin="0" aria-valuemax="100" style="width: 60%;"
-                    ></div>
+                <section >
+                    <progress value="70" max="100"/>
+
+                </section>
+            </li>
+            <li>
+                <section>Vue</section>
+                <section >
+                    <progress value="60" max="100"/>
+
                 </section>
             </li>
             <li>
                 <section>PS</section>
-                <section class="progress">
-                    <div class="progress-bar " role="progressbar" aria-valuenow="100"
-                         aria-valuemin="0" aria-valuemax="100" style="width: 50%;"
-                    ></div>
+                <section >
+                    <progress value="50" max="100"/>
+
+                </section>
+            </li>
+            <li>
+                <section>项目管理、需求分析</section>
+                <section >
+                    <progress value="70" max="100"/>
+
                 </section>
             </li>
         </ul>

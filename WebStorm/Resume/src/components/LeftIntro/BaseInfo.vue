@@ -17,6 +17,10 @@
                 <span class="fa fa-envelope-open"></span>
                 <span>xavier_ybx@163.com</span>
             </li>
+            <li class="clear-fix">
+                <span class="fa  fa-github-square"></span>
+                <span>York-Bill</span>
+            </li>
         </ul>
     </div>
 </template>
