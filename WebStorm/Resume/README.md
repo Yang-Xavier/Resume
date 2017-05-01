@@ -15,5 +15,5 @@ npm run dev
 npm run build
 ```
 
-<a href='http://resume.forybx.com'>个人静态简历简历
+<a href='http://resume.forybx.com'>个人静态简历
 </a>
